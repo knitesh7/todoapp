@@ -1,0 +1,23 @@
+.inpdiv{
+    
+    height: auto;
+    display: flex;
+    justify-content: center;
+    height: 5%;
+    margin:2rem 0 0 0  ;
+}
+
+.input{
+    background-color: rgb(210, 245, 233);
+    width: 60%;
+    padding-left: 1rem;
+}
+
+button{
+    padding: 0.4rem;
+    border-radius: 5%;
+    border: none;
+    background-color: rgb(49, 43, 93);
+    color: antiquewhite;
+    cursor: pointer;
+}

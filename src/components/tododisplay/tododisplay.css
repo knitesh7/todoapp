@@ -1,0 +1,13 @@
+.display {
+    margin-top: 1rem;
+    height: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.done,
+.pending {
+    width: 45%;
+    height: 100%;
+}
+

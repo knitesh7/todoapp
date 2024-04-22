@@ -1,0 +1,8 @@
+.todoitem{
+    margin: 1.5rem;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    
+}
